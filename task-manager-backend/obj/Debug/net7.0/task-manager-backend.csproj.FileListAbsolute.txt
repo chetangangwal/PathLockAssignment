@@ -1,0 +1,6 @@
+/Users/chetangangwal/Desktop/TaskManager/task-manager-backend/obj/Debug/net7.0/task-manager-backend.csproj.AssemblyReference.cache
+/Users/chetangangwal/Desktop/TaskManager/task-manager-backend/obj/Debug/net7.0/task-manager-backend.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chetangangwal/Desktop/TaskManager/task-manager-backend/obj/Debug/net7.0/task-manager-backend.AssemblyInfoInputs.cache
+/Users/chetangangwal/Desktop/TaskManager/task-manager-backend/obj/Debug/net7.0/task-manager-backend.AssemblyInfo.cs
+/Users/chetangangwal/Desktop/TaskManager/task-manager-backend/obj/Debug/net7.0/task-manager-backend.csproj.CoreCompileInputs.cache
+/Users/chetangangwal/Desktop/TaskManager/task-manager-backend/obj/Debug/net7.0/task-manager-backend.MvcApplicationPartsAssemblyInfo.cache
